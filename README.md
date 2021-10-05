@@ -9,5 +9,5 @@ This is a scenario based hands-on test where candidate need to design a solution
 
 2. Identify and list potential threat associated with the above solution
 
-3. Deploy the above solution using infrastruture as code (IaaS)
+3. Deploy the above solution using infrastruture as code (IaC)
     * Use any IaC tool such as Terraform, Cloudformation, CDK etc
